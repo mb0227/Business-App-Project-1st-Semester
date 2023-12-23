@@ -1,0 +1,7 @@
+BBQ Chicken,1200
+Grilled Fish,1200
+Chicken Piece,300
+Seekh Kabab,70
+Aalu,12
+Anda,200
+898988,200

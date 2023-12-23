@@ -1,0 +1,18 @@
+Zinger Burger,270
+Shawarma,160
+Pizza Small,600
+Pizza Medium,900
+Pizza Large,1400
+Pizza Extra Large,2000
+Wraps,200
+Nuggets,60
+Chicken Wings,80
+Chicken Karahi,250
+Daal,150
+Haleem,200
+Biryani,200
+Daal Mash,130
+Chicken Tikka,270
+ChowMein,250
+Spring Rolls,30
+Chinese Rice,180

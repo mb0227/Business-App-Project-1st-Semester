@@ -1,0 +1,27 @@
+Coca Cola,100
+Pepsi,100
+7-up,100
+Sprite,100
+Mirinda,100
+Fanta,100
+PeachMalt,100
+Lemon Malt,100
+Sting,100
+RedBull,100
+Apple Juice,170
+Mango Juice,170
+Guava Juice,170
+Peach Juice,170
+Pomengranate Juice,170
+Red Grape Juice,170
+Orange Juice,170
+Banana Shake,200
+Watermelon Shake,200
+Apple Shake,200
+Mango Shake,200
+Peach Shake,200
+Dates Shake,200
+Tea,50
+Coffee,50
+Coconut Water,150
+Drinks,23

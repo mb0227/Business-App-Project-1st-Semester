@@ -1,0 +1,6 @@
+Dahi Ballay,120
+Chana Chaat,150
+Papri Chaat,150
+Samose,50
+Pakore,200
+Chicken Roll,30

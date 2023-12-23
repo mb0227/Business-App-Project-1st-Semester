@@ -1,0 +1,18 @@
+Black Tea,100
+Green Tea,100
+Oolong Tea,100
+White Tea,100
+Chai Tea,50
+Herbal Tea,100
+Black Coffee,200
+Decaf Coffee,200
+Espresso,200
+Latte,200
+Mocha Cofee,200
+Aloo Wala Paratha,50
+Qeeme Wala Paratha,50
+Chicken Wala Paratha,100
+Cheese Wala Paratha,100
+Gobi Wala Paratha,100
+Chicken Cheese Paratha,200
+Mooli Wala Paratha,100

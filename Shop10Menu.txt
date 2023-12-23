@@ -1,0 +1,13 @@
+Vanilla Milkshake,200
+Chocolate Milkshake,200
+Mango Milkshake,200
+Strawberry Milkshake,200
+Butterscotch Milkshake,200
+V & C Milkshake,200
+Oreos Milkshake,200
+Vanilla Panga,200
+Chocolate Panga,200
+Mango Panga,200
+Strawberry Panga,200
+V & C Panga,200
+Oreos Panga,200

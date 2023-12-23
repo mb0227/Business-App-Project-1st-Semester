@@ -1,0 +1,6 @@
+Vanilla Ice Cream,100
+Chocolate Ice Cream,100
+Mango Ice Cream,100
+Strawberry Ice Cream,100
+Butterscotch Ice Cream,100
+Oreos Ice Cream,100

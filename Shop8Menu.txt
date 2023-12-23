@@ -1,0 +1,15 @@
+Orange Slush,80
+Lemon Slush,80
+Grape Slush,80
+Watermelon Slush,80
+Pineapple Slush,80
+Strawberry Slush,80
+Blueberry Slush,80
+Raspberry Slush,80
+Banana Slush,80
+Peach Slush,80
+Apple Slush,80
+Cherry Slush,80
+Guava Slush,80
+Pomegranate Slush,80
+Coconut Slush,80
